@@ -1,3 +1,10 @@
+/**
+ * File           : MGaris.java		28/02/24
+ * Nama penulis   : Rania
+ * NIM            : 24060122120013
+ * Deskripsi      : Main dari Garis
+ **/
+
 public class MGaris {
     public static void main(String[] args) {
         Titik titikAwal = new Titik(0, 0);
