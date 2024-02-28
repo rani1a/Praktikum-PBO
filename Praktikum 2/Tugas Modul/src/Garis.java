@@ -1,3 +1,10 @@
+/**
+ * File           : Garis.java		28/02/24
+ * Nama penulis   : Rania
+ * NIM            : 24060122120013
+ * Deskripsi      : Class dari Garis
+ **/
+
 public class Garis {
     private Titik titikAwal, titikAkhir;
     public Garis(Titik titikAwal, Titik titikAkhir)
