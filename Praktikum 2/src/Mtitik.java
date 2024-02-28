@@ -1,5 +1,5 @@
 /**
- * File           : Mtitik.java		21/02/24
+ * File           : Mtitik.java		28/02/24
  * Nama penulis   : Rania
  * NIM            : 24060122120013
  * Deskripsi      : Main dari Titik
