@@ -46,9 +46,8 @@ hubungan "is-a", di mana mahasiswa dan wali mahasiswa adalah jenis dari orang. D
 dan WaliMahasiswa) mewarisi atribut dan metode dari kelas induk (Orang), dan dapat menambahkan perilaku khusus atau mengganti
 perilaku yang ada sesuai kebutuhan mereka.
 
-Selain itu, terdapat hubungan agregasi antara kelas Mahasiswa dengan kelas
-WaliMahasiswa. Agregasi adalah tipe relasi di mana sebuah objek atau kelas memiliki
-referensi ke objek lain, namun objek tersebut tidak sepenuhnya bergantung pada objek lain tersebut.
+Selain itu, terdapat hubungan agregasi antara kelas Mahasiswa dengan kelas WaliMahasiswa. Agregasi adalah tipe relasi di mana 
+sebuah objek atau kelas memilikireferensi ke objek lain, namun objek tersebut tidak sepenuhnya bergantung pada objek lain tersebut.
 Dalam tugas ini, objek Mahasiswa menggunakan objek WaliMahasiswa sebagai atribut wali, yang menunjukkan bahwa wali mahasiswa 
 adalah bagian dari mahasiswa.
 */
