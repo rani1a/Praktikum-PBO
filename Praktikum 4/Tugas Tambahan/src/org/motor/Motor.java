@@ -1,3 +1,9 @@
+/**
+ * File : Motor.java  16/03/2024
+ * Penulis : Rania
+ * NIM : 24060122120013
+ * Deskripsi : Representasi dari objek motor, turunan kelas kendaraan
+ */
 package org.motor;
 import org.kendaraan.Kendaraan;
 
