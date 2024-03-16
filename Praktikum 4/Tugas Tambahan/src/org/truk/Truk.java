@@ -16,23 +16,18 @@ public class Truk extends Kendaraan {
         this.kapasitasMuatan = kapasitasMuatan;
         this.beratMuatan = 0;
     }
-
     public int getKapasitasMuatan() {
         return kapasitasMuatan;
     }
-
     public void setKapasitasMuatan(int kapasitasMuatan) {
         this.kapasitasMuatan = kapasitasMuatan;
     }
-
     public int getBeratMuatan() {
         return beratMuatan;
     }
-
     public void setBeratMuatan(int beratMuatan) {
         this.beratMuatan = beratMuatan;
     }
-
     @Override
     public void cetakInfo() {
         super.cetakInfo();
@@ -41,7 +36,6 @@ public class Truk extends Kendaraan {
         System.out.println("Berat muatan: " + beratMuatan);
 
     }
-
     public void muatBarang(int berat) {
         if (beratMuatan + berat > kapasitasMuatan) {
             System.out.println("Muatan melebihi kapasitas! Tidak dapat dimuat.");
@@ -50,7 +44,6 @@ public class Truk extends Kendaraan {
             System.out.println("Barang seberat " + berat + " kg dimuat. Berat muatan saat ini: " + beratMuatan + " kg");
         }
     }
-
     @Override
     public void klakson() {
         System.out.println(super.getNama() + " berbunyi, Honk Honk!");
