@@ -1,3 +1,9 @@
+/**
+ * File : Kendaraan.java  16/03/2024
+ * Penulis : Rania
+ * NIM : 24060122120013
+ * Deskripsi : Representasi dasar dari objek kendaraan
+ */
 package org.kendaraan;
 
 public class Kendaraan {
