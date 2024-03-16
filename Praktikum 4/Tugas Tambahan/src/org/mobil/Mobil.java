@@ -1,3 +1,9 @@
+/**
+ * File : Mobil.java  16/03/2024
+ * Penulis : Rania
+ * NIM : 24060122120013
+ * Deskripsi : Representasi dari objek mobil, turunan kelas kendaraan
+ */
 package org.mobil;
 import org.kendaraan.Kendaraan;
 
