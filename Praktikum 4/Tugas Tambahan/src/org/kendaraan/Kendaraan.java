@@ -37,7 +37,6 @@ public class Kendaraan {
         this.kecepatan = kecepatanAkhir;
         System.out.println("Kecepatan setelah " + durasi + " detik: " + this.kecepatan + " km/h");
     }
-
     public void berhenti() {
         this.kecepatan = 0;
         System.out.println("Kendaraan berhenti.");
