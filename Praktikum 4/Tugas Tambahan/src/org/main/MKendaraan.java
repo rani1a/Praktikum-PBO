@@ -1,3 +1,9 @@
+/**
+ * File : MKendaraan.java  13/03/2024
+ * Penulis : Rania
+ * NIM : 24060122120013
+ * Deskripsi : Driver class untuk kendaraan dan subclassnya
+ */
 package org.main;
 
 import org.kendaraan.Kendaraan;
