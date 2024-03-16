@@ -1,3 +1,9 @@
+/**
+ * File : Truk.java  16/03/2024
+ * Penulis : Rania
+ * NIM : 24060122120013
+ * Deskripsi : Representasi dari objek truk, turunan kelas kendaraan
+ */
 package org.truk;
 import org.kendaraan.Kendaraan;
 
